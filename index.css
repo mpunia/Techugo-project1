@@ -1,0 +1,15 @@
+#form{
+    margin-top: 170px;
+    margin-left: 500px;
+}
+.filed{
+    width: 40%;
+    padding: 12px 20px;
+    border-radius: 10px;
+    background-color:grey;
+}
+#btn{
+    background-color:green;
+    padding: 14px 20px;
+    color: white;
+}
